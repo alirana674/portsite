@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name":"Muhammad Ali",
+    "occupation":"React JS Developer",
+    "description":"A doer, a believer",
+    "image":"profilepic.jpg",
+    "bio":"I love to learn new technologies on my own just out of interest and try to be updated with the tech industry by following their summits and other online events.",
+    "contactmessage":"Feel free to contact",
+    "email": "alirana674@gmail.com",
+    "phone": "+923090709943",
+    "address":{
+      "street":"494-A, Airline Society",
+      "city":"Lahore",
+      "zip": "53270"
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/14myFf5wfGVUENxVE1jm2t0WScnGGMCX-/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://facebook.com/ali.ranaAR",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/alirana674",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/muhammad-ali-7469241a4/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/ali._.rana/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/alirana674",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"live:alirana674",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"a doer, a believer",
+    "education":[
+      {
+        "school":"FAST NUCES",
+        "degree":"Bachelor's in Computer Science",
+        "graduated":"August, 2020"
+      },
+      {
+        "school":"Divisional Public College",
+        "degree":"FSc (Pre-Engineering)",
+        "graduated":"August, 2015"
+      },
+      {
+        "school":"Divisional Public School",
+        "degree":"Matriculation",
+        "graduated":"July, 2013"
+      }
+    ],
+    "work":[
+      {
+        "company":"Systems Limited",
+        "title":"Associate Software Engineer",
+        "years":"October 2020 - Present",
+        "description":"React JS, Node JS development"
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+      {
+        "name":"Firebase",
+        "level":"55%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Node",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Clash Surgeon",
+        "category":"My Final Year Project in Bachelor's degree. A system consists of a web app and an android App, deals with the automation of manual procedure of change of course.\n \nReact JS, HTML5, Firebase",
+        "image":"canadian-wanderlust.jpg"
+      },
+      {
+        "title":"CodeX",
+        "category":"CodeX is a desktop application which allows users to upload photos and apply different filters and play with other settings",
+        "image":"codex.jpg"
+      },
+      {
+        "title":"Whatsapp Web Clone",
+        "category":"Whatsapp Web Clone is a desktop application which consists of the real Whatsapp web, it authenticates, users can chat aswell",
+        "image":"ww.png"
+      },
+      {
+        "title":"Portfolio Website",
+        "category":"This website which youre currently on, is also one of my projects built in React JS",
+        "image":"resume-website.jpg"
+      }
+    ]
+  
+    
+  }
+}
